@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049326434616",
+    "project_id": "flowersapp-48a32",
+    "storage_bucket": "flowersapp-48a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049326434616:android:a73f96c0dd5d0f5ac869cd",
+        "android_client_info": {
+          "package_name": "com.flowers23.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049326434616-uun9mov217fhk2hdhompo7s03qa7vjf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT5ti5wz4HUsPW38wSzMI0_snJFQmqdag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049326434616-uun9mov217fhk2hdhompo7s03qa7vjf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
